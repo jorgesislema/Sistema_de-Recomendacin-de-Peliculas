@@ -1,0 +1,45 @@
+# Proyecto Individual Nº1 - Sistema de Recomendación de Películas
+
+## Descripción
+Este proyecto simula el entorno real de trabajo de un **MLOps Engineer**, permitiéndonos ganar experiencia práctica en el desarrollo de aplicaciones basadas en datos, 
+desde la recolección y transformación de información hasta el despliegue de un modelo de machine learning en producción. La API proporciona funcionalidades avanzadas,
+como la obtención de datos por fechas, consultas de votaciones y el cálculo de similitud entre películas para generar recomendaciones.
+Además, este proyecto fomenta la **adquisición de habilidades esenciales para el mundo laboral**, incluyendo el análisis de datos, el diseño de sistemas de recomendación 
+y la implementación de soluciones escalables en la web.
+Finalmente, el proyecto culmina con el despliegue de la aplicación en **Render** y la creación de un video demostrativo que valida el funcionamiento del sistema,
+permitiéndonos aplicar lo aprendido en un contexto realista y prepararnos para el entorno profesional en ciencia de datos y MLOps.
+
+## Estructura del proyecto
+```plaintext
+proyecto_recomendacion_peliculas/
+├── .vscode/                       # Configuración de VS Code (opcional)
+├── api/                           # Carpeta que contiene la implementación de la API
+│   ├── __pycache__/               # Archivos de caché de Python generados automáticamente
+│   └── main.py                    # Archivo principal para iniciar la API (FastAPI)
+├── datos/                         # Carpeta para almacenar los datos de entrada (datasets)
+│   ├── credits.csv                # Dataset original de créditos de películas
+│   ├── credits_desanidado.csv     # Dataset de créditos después de ser desanidado
+│   ├── data_peliculas.csv         # Dataset original de películas
+│   ├── data_peliculas_reducido.csv# Versión reducida del dataset de películas
+│   ├── Diccionario de Datos - PIMLO.xlsx # Diccionario de datos para referencia
+│   ├── movies_dataset.csv         # Dataset original de películas
+│   └── movies_dataset_desanidado.csv # Dataset de películas después de ser desanidado
+├── modelo/                        # Carpeta para el modelo de machine learning
+│   ├── modelo_recomendacion_pca.pkl # Modelo entrenado de recomendación basado en PCA
+│   ├── modelo.ipynb               # Jupyter Notebook para el entrenamiento del modelo
+│   ├── pca_model.pkl              # Archivo guardado del modelo PCA
+│   └── titulos.pkl                # Archivo de títulos de películas para recomendaciones
+├── raiz/                          # Carpeta para archivos de configuración de entorno
+│   └── venv/                      # Entorno virtual para el proyecto
+├── scripts/                       # Carpeta para scripts de procesamiento y análisis de datos
+│   ├── EDA.ipynb                  # Jupyter Notebook para el Análisis Exploratorio de Datos (EDA)
+│   ├── ETL credits.ipynb          # Jupyter Notebook para el proceso ETL de créditos
+│   └── ETL movies_dataset.ipynb   # Jupyter Notebook para el proceso ETL del dataset de películas
+└── requirements.txt               # Archivo con todas las dependencias necesarias para el proyecto
+
+
+
+
+
+
+
