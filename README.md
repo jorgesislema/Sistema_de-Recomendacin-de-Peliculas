@@ -35,6 +35,7 @@ proyecto_recomendacion_peliculas/
 │   └── ETL movies_dataset.ipynb   # Proceso ETL del dataset de películas
 └── requirements.txt               # Dependencias necesarias para el proyecto
 '''
+
 📝 Descripción General
 
 El sistema de recomendación de películas consta de las siguientes etapas principales:
