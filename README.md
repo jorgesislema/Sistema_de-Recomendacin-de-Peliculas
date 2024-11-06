@@ -132,5 +132,9 @@ threadpoolctl==3.5.0
 typing_extensions==4.12.2
 tzdata==2024.2
 uvicorn==0.32.0
+
 #Link de render
 https://proyecto-individual-n-1-sistema-de.onrender.com/docs#/default/recomendacion_recomendacion__titulo__get
+
+#Link de video
+https://drive.google.com/file/d/1A5gBRVxVrAPx0DNEJT4-VQm4VxTbmJNe/view?usp=sharing
