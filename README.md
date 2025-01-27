@@ -1,4 +1,4 @@
-# 🎬 Proyecto Individual Nº1: Sistema de Recomendación de Películas
+# 🎬  Sistema de Recomendación de Películas
 
 ---
 
