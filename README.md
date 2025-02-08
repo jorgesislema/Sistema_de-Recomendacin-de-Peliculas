@@ -3,11 +3,19 @@
 ---
 
 ## 📌 Descripción
-Este proyecto simula el entorno real de trabajo de un **Ingeniero MLOps**, permitiendo ganar experiencia práctica en el desarrollo de aplicaciones basadas en datos, desde la recolección y transformación de información hasta el despliegue de un modelo de machine learning en producción.
+📌 Descripción
 
-La API proporciona funcionalidades avanzadas, como la obtención de datos por fechas, consultas de votaciones y el cálculo de similitud entre películas para generar recomendaciones. Además, este proyecto fomenta la **adquisición de habilidades esenciales para el mundo laboral**, incluyendo el análisis de datos, el diseño de sistemas de recomendación y la implementación de soluciones escalables en la web.
+Este proyecto simula el entorno real de trabajo de un Ingeniero MLOps, permitiendo ganar experiencia práctica en el desarrollo de aplicaciones basadas en datos, desde la recolección y transformación de información hasta el despliegue de un modelo de machine learning en producción.
 
-Finalmente, el proyecto culmina con el despliegue de la aplicación en **Render** y la creación de un video demostrativo que valida el funcionamiento del sistema, permitiendo aplicar lo aprendido en un contexto realista y prepararse para el entorno profesional en ciencia de datos y MLOps.
+La aplicación proporciona funcionalidades avanzadas, como la obtención de datos por fechas, consultas de votaciones y el cálculo de similitud entre películas para generar recomendaciones personalizadas.
+
+El proyecto fomenta la adquisición de habilidades esenciales para el mundo laboral, incluyendo:
+
+-   Análisis de datos
+-   Diseño de sistemas de recomendación
+-   Implementación de soluciones escalables
+
+Finalmente, la aplicación se despliega en Render, con una demostración en video que valida el funcionamiento del sistema.
 
 ---
 
